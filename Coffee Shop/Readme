@@ -1,1 +1,21 @@
+This Dashboard consists of Data for a "Coffee Shop"☕. After Cleaning and Analyzing this data,  The insights drawn were:
 
+💸The Total Sales within 6 months was $6,98,812.33
+
+🗣️ The Total Footfall in was 149116
+
+📈 Average sales per person is $4.96
+
+☕ Average order rate per person is 1.44
+
+⏰ Line graph quantity of orders based on hours shows  the peak hours ie. 9am to 10 am🍩
+
+🤑 Pie chart category % distribution according to sales represent products of what category contributes how much to the sales (where acc. to overall sales, coffee is best seller with sales % of 39%) 🍰
+
+🚶 Footfall and sales on various coffee shops shows sales of all 3 Cafés and their total  visitors 🍮
+
+🍫 Column chart "Top 5 best seller" shows the top 5 product at the cafe and their sales (Overall sales shows that "Barista Expresso" is high on demand) 🍨
+
+ 📆 Order on weekdays (column chart) shows what day in a week customers visits the most ie. Footfall per day (Overall Fridays are visited the most) 🍬
+
+Three slicers Day, Month and Size  offers dynamicity to Dashboard 🍭
