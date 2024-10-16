@@ -1,1 +1,25 @@
+We have  "IPL DATABASE"🏏 . After Cleaning and Analyzing this data,  The insights drawn were:
 
+#WINNER 🏆 shows the winner of the series.. Rajasthan Royals was winner in 2008 (Winner changes dynamically with year slicer) 
+
+Similarly, We have #RUNNER_UP 🥈ie. Chennai Super Kings
+
+#PLAYER_OF_THE_SERIES was Shane Watson 🏅
+
+📆 #YEAR shows the year whose statistics are being shown 
+
+A drop down column to select any year and see total number of matches played in that year🏟️
+
+🌍Stacked column bar represents total matches played on venue (that can be scrolled by a scrollbar) 
+
+⚾Top 10 player of match are represented by a bar chart with AB de Villiers to be the man of the match max. No. Of times 
+
+💫 Stacked bar chart shows the #Total_Matches won by teams in IPL with Mumbai Indian being on top with 70 times fielding and batting 20 times out of 120 times 🔥
+
+ 🍩#Result % of matches shows 53% of matches are won by wicket win and 45% of matches won by runs 
+
+🌟#Toss_decision shows 61% of matches the toss winners decide to field 
+
+Year is the slicer that offers #dynamicity to the Dashboard 
+
+🖼️🏆Both two pictures are linked to two different databases  
