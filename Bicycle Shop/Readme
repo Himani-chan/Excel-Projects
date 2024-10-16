@@ -1,1 +1,25 @@
+This Dashboard consists of (2021-2022) Sales for a "Bicycle Shop" 🚲. After Cleaning and Analyzing this data,  The insights drawn were:
 
+💸The Total Sales within 2 years is $11,87,26,350.29
+
+ 💸The Total Profit raised is $1,68,93,702.29
+
+📈 Profit % is 14.23%
+
+🚴 Total Unit sold is 11,25,806
+
+🗓️ Stacked column chart shows total sales across month and their profit percentage. 
+
+🧾🔵 Pie chart Unit Sales Split represent products of what category contributes how much % to the sales 
+
+🌍📍Sales % of country shows in what country how much sales were made along their trend lines
+
+🚵Sales price vs Manufacturing price is a dumbell chart showing the cost and selling price margin
+
+ 🌐🛴 Top 10 customer ID are shown with their total sales made
+
+💱Overall sales% by segment represent business done with which sector is contributing how much % to the total sales. 
+
+💲Profit generated over years is a line chart showing profit made with these two years 
+
+Three slicers Year, Country and Product_Name offers dynamicity to Dashboard📊 
