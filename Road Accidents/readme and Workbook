@@ -1,0 +1,66 @@
+We have  "ROAD ACCIDENT DATABASE" of two years . After Cleaning and Analyzing this data,  The insights drawn were: 🚘💥🚙 
+
+
+
+#FATAL_CASUALTIES were 7135 ie. 2% of the total accident occurred 🩹
+
+
+
+ #SERIOUS_CASUALTIES were 59312 ie. 14% of the total accident occurred 🩸
+
+
+
+#SLIGHT_CASUALTIES were 351436 IE. 84 % of the total accident occurred🤕
+
+
+
+ 🚘Vehicle causing maximum accidents is Car 🚙 with 80% of the total cases in two years
+
+
+
+💥Total Accidents occurred are 3,07,973 in two years
+
+
+
+💻The casualties and total accidents data can dynamically change wrt. Location (Rural/Urban/both)  and year (2021/2022/both) 
+
+
+
+ Total casualties occurred by vehicle type  shows different vehicles involved in accidents with casualties.
+
+🚗  🚛  🚌  🚴  🚜  🚫
+
+
+
+🌐 2021 vs 2022 casualties by monthly trend is a line chart shows that 2021 was year where accident rate was higher 📈
+
+
+
+Casualties by road type is a column chart that shows 309.7k accident occurred on single-carriageway🛣️
+
+
+
+🛣️Casualties by road surface is a tree chart that shows 279,445 accident occurred on roads whose surface was dry
+
+
+
+🌓Casualties by light condition shows that 73%  accident occurred in daylight🌞  and rest 27% in dark🌚
+
+
+
+🏨Casualties by location shows that 61.23%  accident occurred in Urban area and rest 38.77% in rural area
+
+
+
+🌡️Casualties by weather condition is a tree chart that shows how was the weather most likely that shows mostly weather was fine⛅ but Rainy season☔ has second highest accidents cases
+
+
+
+Icons are linked to database, email, analysis sheets and Wikipedia with details on the accidents🚀
+
+
+
+Two slicers year and location provide dynamicity to entire Dashboard🛸
+
+File was Large so here's the link to the workbook:-
+https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=drive_link&ouid=102764250784320044931&rtpof=true&sd=true
