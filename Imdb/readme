@@ -1,61 +1,31 @@
-We have  "IMDB MOVIE DATABASE" . After Cleaning and Analyzing this data,  The insights drawn were:
-
-
+We have  "IMDB MOVIE DATABASE" . After Cleaning and Analyzing this data,  The insights drawn were
 
 💸The TOTAL REVENUE made was 💲185.2B
 
-
-
  💸The TOTAL BUDGET was 💲165.3B
-
-
 
 🎬Total Movies are 3,725
 
-
-
 🦸 Top Actor with highest gross revenue of 💲3391.6M is HARRISON FORD (It changes dynamically with slicers) 
-
-
 
 📽️Top Director with highest gross revenue of 💲4061.4M is STEVEN SPIELBERG (It changes dynamically with slicers
 
-
-
 🎭 TOP 5 GENRE are displayed with action being most demanded 
-
-
 
 🎞️Top Genre is ACTION with gross revenue 67.5B and gross budget of 62.9B
 
-
-
 ▶️🌍Top 10 profitable directors is the column chart. 🧑‍🎨
-
-
 
 🧑‍🎤Total % of Movies based on rating is the pie chart, where R rated movies holds max. %
 
-
-
 📽️Top 10 Movies acc. To their imdb ratings shows THE SHAWSHANK REDEMPTION is a imdb success🕺
-
-
 
  📸 Top 10 Movies is a line chart with sum of gross revenue and sum of budget, represents Avatar as most profitable 
 
-
-
 🌟🤩 Top 10 directors and their gross revenue is a column chart 🎦
-
-
 
 🎤😎All charts are dynamic and data can be manipulated to get insight between various genres, ratings and even countries 
 
-
-
 🖼️Imbd logo is linked to the referred Database
-
-
 
 🎬Four slicers  Country, Colored or black&white, Genres and Rating offers dynamicity to Dashboard🎬 
